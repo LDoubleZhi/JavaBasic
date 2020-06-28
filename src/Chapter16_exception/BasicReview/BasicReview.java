@@ -1,4 +1,4 @@
-package BasicReview;
+package Chapter16_exception.BasicReview;
 
 /**
  * 1.abstract 可以修饰那些结构？修饰后，有什么特点？
