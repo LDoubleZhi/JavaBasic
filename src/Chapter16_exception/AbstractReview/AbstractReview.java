@@ -17,6 +17,8 @@ package Chapter16_exception.AbstractReview;
  */
 public class AbstractReview {
     public static void main(String[] args) {
-
+        //io stream：InputStream/OutputStream
+        //内部定义了抽象的read和write方法，由子类具体阵地实现
+        //
     }
 }
